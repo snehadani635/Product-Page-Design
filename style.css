@@ -13,3 +13,9 @@
     align-items: center;
     justify-content: center;
 }
+
+.product{
+    width: 90%;
+    max-width: 750px;
+    display: flex;
+}
