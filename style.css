@@ -8,5 +8,8 @@
 .container{
     width: 100%;
     min-height: 100vh;
-
+    background: #d0eaff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
